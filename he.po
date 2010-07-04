@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "header moose"
+msgstr "מוס"
+
+msgid "header moose subtitle"
+msgstr "מערכת אובייקטים פוסט-מודרנית עבור פרל"
+
+msgid "moose page title"
+msgstr "מוס - מערכת אובייקטים פוסט-מודרנית עבור פרל"
+
+# nav
+
+msgid "nav home"
+msgstr "ראשי"
+
+msgid "nav about"
+msgstr "אודות"
+
+msgid "nav articles"
+msgstr "מאמרים"
+
+msgid "nav download"
+msgstr "הורדה"
+
+msgid "nav support"
+msgstr "תמיכה"
+
+msgid "nav presentations"
+msgstr "מצגות"
+
+# home
+
+msgid "home body"
+msgstr ""
+"<p>מוס היא <a href='http://www.perl.com/pub/a/1999/03/pm.html'>מערכת אובייקטים פוסט-מודרנית</a> עבור פרל 5 מוציא את השעמום מכתיבת פרל מונחה-עצמים. מוס משאיל את כל היכולות הטובות ביותר מפרל 6, <acronym title='Common Lisp Object System'>CLOS</acronym> (ליסט), סמאל-טוק, ג'אווה, בטא, OCaml, רובי ועוד, תוך כדי שמירת הנאמנות למוקותיה לפרל 5.</p>"
+"<p>מוס מוכנה ב100% לשימוש מלא ונעשה בה שימוש כבד במספר מערכות שגודל מיום ליום. <a href='http://search.cpan.org/dist/Moose'>נסו אותה היום!</a></p>"
+
+# about
+
+msgid "about body"
+msgstr ""
+"<p>מוס היא תרחבה של מערכת האובייקטים של פרל 5. המטרה העיקרית של מוס היא להפוך תכנות מובנה עצמים בפרל 5 לקל יותר, עקבי יותר ופחות מעייף. עם מוס אפשר לחשוב יותר על מה רוצים לעשות ופחות על המכניקה של <acronym title='object-oriented programming'>תוכנות מובנה עצמים</acronym>.</p>"
+"<p><a href='#code_sample' rel='facebox'>לחץ/לחצי כאן כדי לראות דוגמה של איך מוס נראה</a>.</p>"
+
+msgid "about new to moose header"
+msgstr "לא מכיר/ה את מוס?"
+
+msgid "about new to moose body"
+msgstr ""
+"<p>אם אינך מכיר/ה את מוס, המקום הטוב ביותר להתחיל בו הוא במסמכים של<a href='http://search.cpan.org/dist/Moose/lib/Moose/Manual.pod'><code>Moose::Manual</code></a>, ולאחר מכן לעבור על דוגמאות קוד במסמך <a href='http://search.cpan.org/dist/Moose/lib/Moose/Cookbook.pod'><code>Moose::Cookbook</code></a>. ההקדמה תראה לך מהו מוס, ואיך הוא הופך <acronym title='object orientation'>OO</acronym> של פרל 5 לטוב יותר.</p>"
+"<p>המתכונים שבספר המתכונים לגבי הבסיס של מוס יעזור לך להבין הרבה מהיכולות של מוס מהר. ברגע שהתחלת להבין מה מוס יכול לעשות, אפשר להשתמש בתיעוד של <acronym title='application programming interface'>הממשק לתכנות מחשבים (API)</acronym> לקבל עוד מידע לגבי יכולות שיעניינו אותך.</p>"
+
+msgid "about organization list header"
+msgstr "ארגונים שמשתמשים במוס"
+
+msgid "about organization list body"
+msgstr "<p>מספר גדול של ארגונים מסביב לעולם משתמשים במוס, הנה כמה מהם.</p>"
+
+# download
+
+msgid "download body"
+msgstr "<p>מוס זמין להורדה מה-<acronym title='Comprehensive Perl Archive Network'>CPAN</acronym>, פלטפורמת המודולים של פרל המאורחת על מראות בכל רחבי העולם. למטה ישנם מספר לינקים למוס ולמודולים הקשורים למוס. <a href='http://cpants.perl.org/dist/used_by/Moose'>כאן ניתן למצוא רשימה</a> של מודולים נוספים ב<acronym title='Comprehensive Perl Archive Network'>CPAN</acronym> אשר משתמשים במוס.</p>"
+
+msgid "download info Moose"
+msgstr "הצפת מוס עצמה"
+
+msgid "download info <code>Class::MOP</code>"
+msgstr "מטא פרוקול האובייקטים שמוס בנוי עליו"
+
+msgid "download info <code>Task::Moose</code>"
+msgstr "אוסף של תוספות מצויינות למוס"
+
+msgid "download info <code>Task::Kensho</code>"
+msgstr "אוסף של מודולי פרל מודרניים מעולים"
+
+msgid "download info <code>MooseX::*</code>"
+msgstr "התוספות של מוס"
+
+msgid "download git header"
+msgstr "גיט"
+
+msgid "download git body"
+msgstr ""
+"<p>מוס מפותחת בעזרת מערכת ניהול התוכן <a href='http://git-scm.com/'>גיט (Git)</a>. מוס הוא פרוייקט פתוח מאוד ואנחנו תמיד מוכנים לקבל תרומות מאחרים. המסמך <a href='http://search.cpan.org/dist/Moose/lib/Moose/Manual/Contributing.pod'><code>Moose::Manual::Contributing</code></a> משקף את מדיניות התרומות הספציפית שלנו ומראה לך איך לעבוד עם רצף העבודה שלנו.</p>"
+"<p>הנה כמה סרטי וידאו הממחישים את הפעילות במאגרי הגיט של <a href='http://www.youtube.com/watch?v=Gwq10W0RaHQ&amp;hd=1'>מוס</a> ושל <a href='http://www.youtube.com/watch?v=HlJDnvNSfJo&amp;hd=1'><code>Class::MOP</code></a> במועד שחרור גרסת 1.0. סרטי הוידאו האלה נוצרו בעזרת התוכנה <a href='http://code.google.com/p/gource/wiki/Videos'>Gource</a>.</p>"
+
+msgid "download git public"
+msgstr "קישור למאגר הגיט הפומבי"
+
+msgid "download git committer"
+msgstr "קישור למאגר גיט עבור בעלי גישה"
+
+msgid "download git web view"
+msgstr "צפיה בגיט בדפדפן"
+
+msgid "download github mirror"
+msgstr "מראה של הקוד בגיטהאב (GitHub)"
+
+# support
+
+msgid "support body"
+msgstr "<p>מוס הוא פרוייקט המונע על ידי קהילה ויש מספר מקומות שבהם אפשר למצוא מידע ותמיכה. למטה רשומים ערוצים ה<acronym title='Internet relay chat'>IRC</acronym> הרשמיים ורשימות התפוצה, אבל ניתן למצוא גם עזרה באתרי התמיכה הקהילתיים כמו <a href='http://www.perlmonks.org'>PerlMonks</a> ו-<a href='http://www.stackoverflow.com'>Stack Overflow</a>. אפשר גם לפנות למסמך הרשמי של <a href='http://search.cpan.org/dist/Moose/lib/Moose/Manual/Support.pod'><code>Moose::Manual::Support</code></a> עבור פרטים נוספים.</p>"
+
+msgid "support irc header"
+msgstr "ערוצי <acronym title='Internet relay chat'>IRC</acronym>"
+
+msgid "support irc body"
+msgstr "<p>הדרך המהירה ביותר לקבל תמיכה במוס היא ליצור קשר עם הקהילה בערוץ ה-<acronym title='Internet relay chat'>IRC</acronym>.</p>"
+
+msgid "support mailing list header"
+msgstr "רשימת תפוצה"
+
+msgid "support mailing list body"
+msgstr "<p>רשימות התפוצה של מוס הן דרך מעולה להשיג תשובות לשאלות שלך.</p>"
+
+msgid "support misc header"
+msgstr "שונות"
+
+msgid "support misc body"
+msgstr "<p>הנה מספר דברים שאולי תמצא/י שימושי.</p>"
+
+msgid "support moose mailing list"
+msgstr "רשימת התפוצה של מוס"
+
+msgid "support moose mailing list archives"
+msgstr "ארכיון רשימת התפוצה של מוס"
+
+msgid "support textmate bundle"
+msgstr "חבילת תמיכה של מוס עבור טקסטמייט (TextMate)"
+
+msgid "support quickref card"
+msgstr "Moose Quick Reference Card"
+
+# articles
+
+msgid "articles body"
+msgstr ""
+"<p>למטה ישנה רשימה של מאמרים בפוסטים בבלוגים שנכתבו על מוס, זוהי אינה בשום צורה רשימה מקיפה אבל נו ניסינו לאגד את המעניינים והשימושיים מביניהם. באיסוף הבלוגים של <a href='http://ironman.enlightenedperl.org/'>Perl Iron Man</a> יש לעיתים קרובות פוסטים שקשורים למוס.</p>"
+"<p>אם את/ה מכיר/ה מאמר או פוסט בבלוג שאת/ה חושב/ת שצריך להיות כלול, נא להודיע לנו בעזרת ערוץ ה-<a href='support.html'><acronym title='Internet relay chat'>IRC</acronym> או ברשימת התפוצה </a> ואנו נוסיף אותו כאן.</p>"
+
+# presentations
+
+msgid "presentations body"
+msgstr ""
+"<p>למטה ישנם קישורים למצגות שנעשו על מוס בכנסים ובמפגשי קבוצות פרל מקומיות. היכן שניתן ישנו קישור לשקופיות או לוידאו של המצגת.</p>"
+"<p>זאת בשום צורה לא רשימה מלאה, ולכן אם את/ה מכיר/ה מצגת שאת/ה חושב/ת שצריכה להיות כלולה כאן, אנא להודיע לנו דרך ערוץ ה-<a href='support.html'><acronym title='Internet relay chat'>IRC</acronym> או דרך רשימת בתפוצה</a> ואנחנו נוסיף אותה כאן.</p>"
+
+# footer
+
+msgid "footer copyright"
+msgstr "כל הזכויות שמורות © 2006 – 2010 ל-<a href='http://www.iinteractive.com'>Infinity Interactive</a>"
+
+msgid "footer terms"
+msgstr "הספריה הזאת הינה תוכנה חופשית; אפשר להפיצה מחדש ו/או לשנותה תחת אותם התאנים של פרל עצמה."
+
